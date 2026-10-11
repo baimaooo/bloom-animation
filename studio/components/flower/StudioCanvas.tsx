@@ -802,10 +802,10 @@ export default function StudioCanvas() {
       </div>
 
       <p className="studio-credit">
-        Built by Whitecat Captain -&gt;{" "}
+        Built by baimaooo -&gt;{" "}
         <a
           className="studio-github-link"
-          href="https://github.com/whitecat-captain/bloom-animation"
+          href="https://github.com/baimaooo/bloom-animation"
           target="_blank"
           rel="noreferrer"
         >
