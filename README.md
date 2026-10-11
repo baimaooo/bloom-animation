@@ -16,7 +16,7 @@ The simplest way is to paste this into a conversation with Codex, Claude Code, C
 
 ```text
 Install the bloom-animation-generator Agent Skill from
-https://github.com/whitecat-captain/bloom-animation
+https://github.com/baimaooo/bloom-animation
 ```
 
 Your agent can place the Skill in the location it supports. If the Skill does not appear immediately, start a new conversation or restart the agent.
@@ -24,7 +24,7 @@ Your agent can place the Skill in the location it supports. If the Skill does no
 To keep a local copy of the repository instead, use:
 
 ```bash
-git clone https://github.com/whitecat-captain/bloom-animation.git
+git clone https://github.com/baimaooo/bloom-animation.git
 cd bloom-animation
 python3 scripts/install_skill.py
 ```

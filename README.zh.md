@@ -16,7 +16,7 @@
 
 ```text
 从以下地址安装 bloom-animation-generator Agent Skill：
-https://github.com/whitecat-captain/bloom-animation
+https://github.com/baimaooo/bloom-animation
 ```
 
 你的Agent会将Skill放到它所支持的位置。如果Skill没有立即出现，请开始一个新对话或重启Agent。
@@ -24,7 +24,7 @@ https://github.com/whitecat-captain/bloom-animation
 如果你希望在本地保留一份仓库副本，请使用：
 
 ```bash
-git clone https://github.com/whitecat-captain/bloom-animation.git
+git clone https://github.com/baimaooo/bloom-animation.git
 cd bloom-animation
 python3 scripts/install_skill.py
 ```
